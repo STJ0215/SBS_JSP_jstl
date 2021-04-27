@@ -1,6 +1,5 @@
 package com.edu.beans;
 
-
 public class BookBean {
 	private String title;
 	private String author;
